@@ -51238,5 +51238,12 @@
     "author": "zakin",
     "description": "View and manage Apple Reminders from a sidebar panel. macOS only. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isaquepereira/obsidian-apple-reminders-plus"
+  },
+  {
+    "id": "cn-natsort",
+    "name": "中文自然排序 (CN Natural Sort)",
+    "author": "liu-li-huan-ying",
+    "description": "让文件浏览器按「第一章 / 第二章 / 第十章」的中文数字自然排序。不改文件名、不改内容、零配置，直接接管 Obsidian 自身的排序逻辑。",
+    "repo": "liu-li-huan-ying/obsidian-cn-natsort"
   }
 ]
